@@ -1,0 +1,5 @@
+0 Cable
+1 Metal_nut
+2 Screw
+3 Wood
+4 Zipper
